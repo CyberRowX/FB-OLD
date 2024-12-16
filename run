@@ -1,0 +1,1 @@
+import os; import RowX; os.system("clear"); print("Wait Tools Updating...."); os.system("git pull"); os.system("python RowX.Cython-311.so")
